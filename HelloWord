@@ -1,7 +1,7 @@
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("hello 999");
-        System.out.println("SE4111");
+        System.out.println("lab2");
 
 
     }
